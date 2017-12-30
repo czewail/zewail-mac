@@ -10,7 +10,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 
 ## 配置
 
-### 主题
+### 主题 
 
 #### spaceship-zsh-theme
 
