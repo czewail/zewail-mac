@@ -36,6 +36,20 @@ brew install node
 brew install python3
 ```
 
+#### PHP
+
+```
+brew tap homebrew/homebrew-php
+// 同时安装httpd和postgresql，不需要可以不加
+brew install php72 --with-httpd --with-postgresql
+```
+
+#### Mysql
+
+```
+brew install mysql
+```
+
 
 
 ## 系统工具

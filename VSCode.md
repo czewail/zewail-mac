@@ -18,7 +18,12 @@
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": true,
     "editor.autoIndent": false,
-    "explorer.confirmDragAndDrop": false
+    "explorer.confirmDragAndDrop": false,
+    "git.autofetch": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.swipeToNavigate": true,
+    "explorer.openEditors.visible": 0
+    
 }
 ```
 
@@ -28,8 +33,8 @@
 - Atom One Dark Theme
 - vscode icons
 - ESLint
-- React/Redux/react-router Snippets
+- Zewail-React Snippets
 - Debugger for Chrome
 - Vscode-styled-jsx
-- Babel ES6/ES7
+- Sublime Babel
 - Add jsdoc comments 
